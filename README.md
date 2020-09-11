@@ -1,5 +1,5 @@
 
-# readme generation
+# readme generator
 
 #Table of Contents
 
@@ -13,15 +13,15 @@
 
 
 ## Description:
-  a readme generator of the command line
+  a command line readme generator
 ## Installation:
-  none
+  node js
 ## Usage:
-  none
+  [usage](https://drive.google.com/file/d/19HDRs6MKcp5gZQGx1Ge6fvHi220K9lnD/view)
 ## Contribution
   just me
 ## Test 
-  node js 
+  none 
 ## License
   
 ## Questions:
